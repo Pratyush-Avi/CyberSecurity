@@ -55,8 +55,11 @@ Encoded:     D G H V E T P S T  B M  I H V T L
 
 ## Mix Cipher
 I/P= R  I  T  E S  H
+
 For example Key is +3,-2,+5
+
 O/P= U  G  Y  H  Q  M
+
 E_{n}(x)=(x+n)\mod {26
 
 ## RSA
@@ -77,9 +80,11 @@ W . . . E . . . C . . . R . . . L . . . T . . . E
 WECRL TEERD SOEEF EAOCA IVDEN
 
 ## Verman Cipher
+
 As introduction to stream ciphers, and to demonstrate that a perfect cipher does exist, we describe the Vernam Cipher, also known as the one-time-pad.
 Gilbert Vernam invented and patented his cipher in 1917 while working at AT&T. The teletype had been recently introduced, and along with this the commerical Baudot code. Now messages were uniformly thought of as streams of zero's and one's (But the word "bit" was not yet invented. This is due to Shannon in the 40's.)
 Vernam proposed a bit-wise exclusive or of the message stream with a truely random zero-one stream which was shared by sender and receipient.
+   
    SENDING
    -------
    message: 0 0 1 0 1 1 0 1 0 1 1 1 ...

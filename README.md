@@ -8,8 +8,8 @@ I have learned and understood few cipher when I was undergoing through cybersecu
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#Atbash Cipher">Atbash Cipher</a></li>
-    <li><a href="#home-screen-and-other-major-screens-snap">Home Screen and other major screens Snap</a></li>
+      <a href="#Atbash-Cipher">Atbash Cipher</a></li>
+    <li><a href="#Caesar-cipher">Caesar cipher</a></li>
     <li><a href="#function">Function</a></li>
     <li><a href="#license">License</a></li>
   </ol>

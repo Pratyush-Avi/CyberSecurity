@@ -86,17 +86,23 @@ Gilbert Vernam invented and patented his cipher in 1917 while working at AT&T. T
 Vernam proposed a bit-wise exclusive or of the message stream with a truely random zero-one stream which was shared by sender and receipient.
    
    SENDING
-   -------
+   
    message: 0 0 1 0 1 1 0 1 0 1 1 1 ...
+   
    pad:     1 0 0 1 1 1 0 0 1 0 1 1 ...
+   
    XOR      ---------------------------
+   
    cipher:  1 0 1 1 0 0 0 1 1 1 0 0 ...
 
    RECEIVING
-   ---------
+   
    cipher:  1 0 1 1 0 0 0 1 1 1 0 0 ...
+   
    pad:     1 0 0 1 1 1 0 0 1 0 1 1 ...
+   
    XOR      ---------------------------
+   
    message: 0 0 1 0 1 1 0 1 0 1 1 1 ...
    
   

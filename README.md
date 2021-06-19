@@ -109,7 +109,7 @@ Vernam proposed a bit-wise exclusive or of the message stream with a truely rand
   
 ## Vigenere Cipher
 The Vigenère cipher is a method of encrypting alphabetic text by using a series of different Caesar ciphers based on the letters of a keyword. It is a simple form ofpolyalphabetic substitution.
-
+ 
 
 
 
